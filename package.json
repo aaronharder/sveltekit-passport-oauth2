@@ -1,5 +1,5 @@
 {
-	"name": "sveltekit-passport-oauth2",
+	"name": "@entropy/sveltekit-passport-oauth2",
 	"version": "0.0.6",
 	"main": "./lib/cjs/index.js",
 	"module": "./lib/esm/index.js",
